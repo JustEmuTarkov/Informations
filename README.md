@@ -16,3 +16,5 @@
 - ru - Русский
 - sk - Slovak
 - tu - Turkish
+
+language files are prepared to be used in JET 1.0.0
