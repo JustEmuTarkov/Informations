@@ -1,13 +1,13 @@
 # Informations
 
 `Discord:`  
-- [Discord Invite Link](https://discord.gg/Gbn5bTV)  
+[Discord Invite Link](https://discord.gg/Gbn5bTV)  
 `Website:`  
-- [justemutarkov.eu](https://justemutarkov.eu)  
+[justemutarkov.eu](https://justemutarkov.eu)  
 `Mods:`  
-- [git.justemutarkov.eu](https://git.justemutarkov.eu)  
+[git.justemutarkov.eu](https://git.justemutarkov.eu)  
 `Items Search:`  
-- [eft.justemutarkov.eu](https://eft.justemutarkov.eu)  
+[eft.justemutarkov.eu](https://eft.justemutarkov.eu)  
   
 ## Tools
   
